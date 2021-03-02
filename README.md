@@ -13,9 +13,7 @@
 |--------| ------------ | 
 |[http://www.diag.uniroma1.it//liberato/planning/](http://www.diag.uniroma1.it//liberato/planning/)  | 2021|
 
-## Solutions of Exams by
-
-## Notes by
+## Notes Reasoning by
 
 | Author |  Last Update | 
 |--------| ------------ | 
