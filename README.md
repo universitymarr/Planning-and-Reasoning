@@ -5,7 +5,9 @@
 | Exams | No |  |
 | Homework  | No |  |
 | Notes  | Yes | 2021 |
-| Slides | Yes | 2021 | (partial)
+| Slides | Yes | 2021 | 
+
+(partial Slides)
 
 ## Website of the course
 
